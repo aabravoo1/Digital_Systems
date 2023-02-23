@@ -3,6 +3,7 @@
 Repository for digital systems projects.
 These were implemented on a DE10-Standard Fpga board using Quartus software. 
 All projects contain a testbench file to which ensures validation on a pre-si hardware validation software like ModelSim to ensure correct functionality before implementation on FPGA 
+All files where developed with the Verilog hardware description language. 
 
 ## Lab 7
 
